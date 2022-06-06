@@ -5,7 +5,7 @@ clear all;clc;
 global A trn vald;
 %A=load('zoo.dat');
 
-A=load('IslamDataSetNoUrea.csv');
+A=load('zoo.dat');
 r=randperm(size(A,1));
 trn=r(1:floor(length(r)/2));
 vald=r(floor(length(r)/2)+1:end);
