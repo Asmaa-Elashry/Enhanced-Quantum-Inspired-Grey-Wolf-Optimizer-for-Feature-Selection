@@ -1,6 +1,6 @@
 # Enhanced-Quantum-Inspired-Grey-Wolf-Optimizer-for-Feature-Selection
                                                                             
-Matlab Implementation of the work introduced in my research paper titled "Enhanced Quantum Inspired Grey Wolf Optimizer for Feature Selection"
+Matlab Implementation of the work introduced in the research paper titled "Enhanced Quantum Inspired Grey Wolf Optimizer for Feature Selection"
                                                                                                   
 The paper is was published in the International Journal of Intelligent Systems and Applications - Published by MECS Publisher
                                                                                               
